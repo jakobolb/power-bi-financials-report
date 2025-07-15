@@ -2,7 +2,7 @@
 Ein interaktiver Power BI Report zur Visualisierung von Finanzmetriken im Jahresvergleich für ein fiktives Unternehmen. Der Bericht ermöglicht die dynamische Auswahl verschiedener KPIs mithilfe von **Switch Measures** und nutzt **Conditional Formatting** zur visuellen Hervorhebung von Abweichungen.
 
 ## 🗂️ Dataset
-- Data Source: [Mo Chen](https://github.com/mochen862) | [Data Excel Link](../PlantDTS.xls)
+- Data Source: [Mo Chen](https://github.com/mochen862) | [Data Excel Link](../blob/main/PlantDTS.xls)
 
 ## ✨ Features
 - Dynamische Umschaltung zwischen Kennzahlen (z. B. Umsatz, Gewinn, Verkaufsmenge)
@@ -15,4 +15,4 @@ Ein interaktiver Power BI Report zur Visualisierung von Finanzmetriken im Jahres
 - DAX 
 
 ## 📸 Screenshots
-![PowerBi Performance Dashboard](../Screenshot.png)
+![PowerBi Performance Dashboard](https://github.com/jakobolb/power-bi-financials-report/blob/main/Screenshot.png)
